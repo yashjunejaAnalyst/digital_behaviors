@@ -1,6 +1,6 @@
 # digital_behaviors
 
-**# Project Title:**
+** # Project Title:**
 SQL-Driven Insights into Digital Behavior and Workplace Wellbeing
 
 **Project Objective:**
